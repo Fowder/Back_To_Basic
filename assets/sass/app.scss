@@ -19,8 +19,10 @@
 |    temp
 */
 
+$color:yellow;
+
 body{
-	background-color: #212121;
+	background-color: $color;
 	h1{
 		color: #dedede;
 	}
